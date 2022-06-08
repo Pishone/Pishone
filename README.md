@@ -1,6 +1,7 @@
- ► Hi, I’m @Pishone
- ► I’m interested in Automation and Scripting. Trying to land a Job somewhere in Dev / QA
- ► I’m currently learning nothing useful.
+ - Hi, I’m @Pishone
+ - I’m interested in Automation and Scripting and Privacy.
+ - In my free time, I like to curate lists of things I find facinating / interesting.
+ - I’m currently trying to land a Job in IT.
 
 <!---
 Pishone/Pishone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
