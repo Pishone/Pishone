@@ -1,5 +1,5 @@
 - Hi, I’m @Pishone
-- I’m interested in Nothing. Trying to devalop a interest in something.
+- I’m interested in Automation and Scripting. Trying to land a Job somewhere in Dev / QA
 - I’m currently learning nothing useful.
 
 <!---
