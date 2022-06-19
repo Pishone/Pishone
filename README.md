@@ -1,5 +1,5 @@
  - Hi, I’m @Pishone
- - I’m interested in Developing, Automation, Scripting and Privacy.
+ - I’m finding my Interest in Developing, Automation, Scripting and Privacy.
  - In my free time, I like to curate lists of things I find facinating / interesting.
  - I’m currently trying to land a Job in IT.
 
